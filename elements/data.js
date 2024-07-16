@@ -1,10 +1,10 @@
 window.audios = [
 {
-	title: "You Got It",
-	artist: "Vedo",
+	title: "Dandelions",
+	artist: "Ruth B",
 	cover: "vedo.jpg",
 	file: "vedo.mpeg",
-	duration: "03:50"
+	duration: "03:56"
 },
 {
 	title: "A Piccolo and a Cane",
